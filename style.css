@@ -165,7 +165,7 @@
     .sec1 nav{
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 6px;
         padding: 10px 20px;
         margin-left: -80px;
     }
@@ -187,7 +187,8 @@
      
     nav div img{
         width: 100px;
-        margin: 20px 10px;
+        margin: 20px 50px;
+        padding-left: 20px;
     }
 
     .sec1 button{
@@ -209,12 +210,12 @@
     }
     .secimg h1{
         font-size: 30px;
-        margin-left: -100px;
+        margin-left: -50px;
         
     }
     .secimg p{
         font-size: 20px;
-        margin-left: -100px;
+        margin-left: -50px;
         margin-top: 20px;
         line-height: 20px;
         
