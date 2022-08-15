@@ -165,9 +165,9 @@
     .sec1 nav{
         display: flex;
         justify-content: center;
-        gap: 6px;
+        gap: 20px;
         padding: 10px 20px;
-        margin-left: -80px;
+        margin-left: -50px;
     }
 
     .sec1 li{
@@ -187,7 +187,7 @@
      
     nav div img{
         width: 100px;
-        margin: 20px 50px;
+        margin: 20px 0px;
         padding-left: 20px;
     }
 
