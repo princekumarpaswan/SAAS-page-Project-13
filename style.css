@@ -299,6 +299,206 @@
 
 
 
+
+
+
+@media(max-width: 600px){
+
+
+
+    *{
+        max-width: 500px;
+        overflow-x: hidden;
+    }
+
+  
+    
+    .sec1{
+        width: 500px;
+    }
+     
+    .sec1 nav{
+        display: block;
+        justify-content: center;
+        gap: 10px;
+        padding: 10px 10px;
+        margin-left: 1px;
+    }
+
+    .sec1 li{
+        float: left;
+        list-style: none;
+        margin-left: 20px !important;
+        font-size: 15px !important;
+        font-weight: 700;
+        color: white;
+        margin-top: 0px;
+    }
+
+    .sec1 ul{
+        margin-left: -10px;
+        align-items: center;
+    }
+     
+    nav div img{
+        width: 100px;
+        margin: 10px 0px;
+        padding-left: 20px;
+        margin-left: 120px;
+    }
+
+    .sec1 button{
+        margin-top: 20px;
+        width: 80px;
+        height: 30px;
+        font-weight: 900;
+        font-size: 10px;
+        color: white;
+        background-color: rgb(85, 149, 185);
+        border: none;
+        margin-left: 140px;
+        
+        
+    }
+    .borsec1{
+        padding-bottom: 10px;
+        border-bottom: 2px powderblue solid;
+        width: 350px;
+    }
+
+    .secimg{
+        width: 300px;
+        display: block;
+        text-align: center;
+        margin: 50px 60px;
+    }
+    .secimg h1{
+        font-size: 30px;
+        margin-left: -50px;
+        
+    }
+    .secimg p{
+        width: 300px;
+        font-size: 20px;
+        margin-left: -30px;
+        margin-top: 20px;
+        line-height: 20px;
+        
+    }
+
+   .secimg img{
+    width: 300px !important;
+    margin-left: -50px;
+   }
+
+   .sec3{
+    width: 300px;
+    display: block;
+    text-align: center;
+    margin: 20px 10px;
+   }
+   
+   .sec3 img{
+    width: 300px;
+    margin-left: 25px;
+   }
+
+
+  .topsec3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+  }
+  .topsec3 h1{
+    font-size: 30px;
+    margin-left: 0px;
+    margin-right: -10px;
+  }
+
+  .sec3flex{
+    width: 300px;
+    margin-left: 0px;
+  }
+  .sec3flex div{
+    padding: 10px;
+  }
+
+
+  .foottop h1{
+     font-size: 20px;
+     margin: 20px 0px;
+     margin-left: -5px !important;
+  }
+
+  .footimg {
+    display: block;
+    width: 300px;
+    margin: 20px 0px;
+  }
+
+
+  .footimg div{
+    background-color: #4E258B;
+    margin: 30px 0px;
+    padding: 30px;
+    border-radius: 40px;
+    width: 250px;
+}
+
+.foothead{
+    background-color:#7650aa !important;
+    width: fit-content !important;
+    width: 200px !important;
+    font-size: 20px;
+}
+
+.foot1 .foothead:hover{
+    background-color: #160a27;
+    margin: 0px 30px;
+    transition-delay: 0.5s;
+    transition-duration: 0.8s;
+    cursor: pointer;
+}
+
+.foot1{
+    width: 300px;
+    text-align: center;
+    margin: 10px 0px !important;
+    margin-left: 30px !important;
+
+}
+
+.foothead h1{
+    font-size: 20px;
+}
+
+.foothead p{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.foot1 img{
+    width: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
   
 
 
